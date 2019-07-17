@@ -1,0 +1,26 @@
+
+
+.content {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.box-header {
+    padding-bottom: 5em;
+}
+
+.box .box-body {
+    width: 1400px;
+    height: 300px;
+    margin: 0 auto;
+    overflow-x: scroll!important;
+    overflow-y: scroll!important;
+}
+
+.test {
+   width: 140px
+}
+
+.box-body {
+    padding-bottom: 2em;
+}
