@@ -3,24 +3,18 @@
 .content {
     padding-left: 100px;
     padding-right: 100px;
-}
-
-.box-header {
-    padding-bottom: 5em;
+    padding-top: 100px;
 }
 
 .box .box-body {
-    width: 1400px;
-    height: 300px;
+    /* width: 1400px; */
+    height: 500px;
     margin: 0 auto;
     overflow-x: scroll!important;
     overflow-y: scroll!important;
 }
 
-.test {
-   width: 140px
-}
-
 .box-body {
     padding-bottom: 2em;
+    text-align: center;
 }
